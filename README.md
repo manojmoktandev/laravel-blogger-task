@@ -1,6 +1,6 @@
 # Laravel Roadmap: Beginner Personal Blog with Laravel UI
 
-This is an example demo project that implements majority of the topics required in [Laravel Roadmap Beginner Level](https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path):
+This is an example demo project that implements majority of the topics given below:
 
 
 **Routing and Controllers: Basics**	
